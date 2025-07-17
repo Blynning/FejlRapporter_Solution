@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|c:\\users\\jonas\\source\\repos\\fejlrapporter_solution\\fejlrapporter\\components\\pages\\adminpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|solutionrelative:fejlrapporter\\components\\pages\\adminpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|c:\\users\\jonas\\source\\repos\\fejlrapporter_solution\\fejlrapporter\\components\\pages\\adminpage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|solutionrelative:fejlrapporter\\components\\pages\\adminpage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|c:\\users\\jonas\\source\\repos\\fejlrapporter_solution\\fejlrapporter\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|solutionrelative:fejlrapporter\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736F5D75-8D15-474C-8805-7F2FDB3B517B}|Repositories\\Repositories.csproj|c:\\users\\jonas\\source\\repos\\fejlrapporter_solution\\repositories\\errorreportrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736F5D75-8D15-474C-8805-7F2FDB3B517B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\errorreportrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233E5DB4-2C8D-4544-9C23-2BAFAE510B9A}|DatabaseService\\DatabaseService.csproj|c:\\users\\jonas\\source\\repos\\fejlrapporter_solution\\databaseservice\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233E5DB4-2C8D-4544-9C23-2BAFAE510B9A}|DatabaseService\\DatabaseService.csproj|solutionrelative:databaseservice\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|c:\\users\\jonas\\source\\repos\\fejlrapporter_solution\\fejlrapporter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|solutionrelative:fejlrapporter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|c:\\users\\jonas\\source\\repos\\fejlrapporter_solution\\fejlrapporter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|solutionrelative:fejlrapporter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|c:\\users\\jonas\\source\\repos\\fejlrapporter_solution\\fejlrapporter\\components\\pages\\adminpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|solutionrelative:fejlrapporter\\components\\pages\\adminpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|c:\\users\\jonas\\source\\repos\\fejlrapporter_solution\\fejlrapporter\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134B25FF-9F6B-4045-AB77-DAEA4702EF7A}|FejlRapporter\\FejlRapporter.csproj|solutionrelative:fejlrapporter\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Program.cs",
+              "RelativeDocumentMoniker": "FejlRapporter\\Program.cs",
+              "ToolTip": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Program.cs",
+              "RelativeToolTip": "FejlRapporter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:49:31.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\appsettings.json",
+              "RelativeDocumentMoniker": "FejlRapporter\\appsettings.json",
+              "ToolTip": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\appsettings.json",
+              "RelativeToolTip": "FejlRapporter\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T18:48:35.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\DatabaseService\\DbService.cs",
+              "RelativeDocumentMoniker": "DatabaseService\\DbService.cs",
+              "ToolTip": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\DatabaseService\\DbService.cs",
+              "RelativeToolTip": "DatabaseService\\DbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:37:54.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorReportRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\Repositories\\ErrorReportRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ErrorReportRepo.cs",
+              "ToolTip": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\Repositories\\ErrorReportRepo.cs",
+              "RelativeToolTip": "Repositories\\ErrorReportRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:00:23.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminPage.razor.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\AdminPage.razor.cs",
+              "RelativeDocumentMoniker": "FejlRapporter\\Components\\Pages\\AdminPage.razor.cs",
+              "ToolTip": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\AdminPage.razor.cs",
+              "RelativeToolTip": "FejlRapporter\\Components\\Pages\\AdminPage.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:02:50.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPage.razor",
+              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\AdminPage.razor",
+              "RelativeDocumentMoniker": "FejlRapporter\\Components\\Pages\\AdminPage.razor",
+              "ToolTip": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\AdminPage.razor",
+              "RelativeToolTip": "FejlRapporter\\Components\\Pages\\AdminPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T17:02:43.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "FejlRapporter\\Components\\Pages\\Home.razor.cs",
+              "ToolTip": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "FejlRapporter\\Components\\Pages\\Home.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:03:36.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FejlRapporter\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "FejlRapporter\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T15:57:43.339Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminPage.razor.css",
+              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\AdminPage.razor.css",
+              "RelativeDocumentMoniker": "FejlRapporter\\Components\\Pages\\AdminPage.razor.css",
+              "ToolTip": "C:\\Users\\jonas\\source\\repos\\FejlRapporter_Solution\\FejlRapporter\\Components\\Pages\\AdminPage.razor.css",
+              "RelativeToolTip": "FejlRapporter\\Components\\Pages\\AdminPage.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-17T19:00:37.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
