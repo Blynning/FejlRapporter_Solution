@@ -1,0 +1,56 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@using System.ComponentModel.DataAnnotations
+@using Models
+
+<PageTitle>Rappoter fejl</PageTitle>
+<div class="main-container">
+
+    <h3>Indrapportér en fejl eller mangel</h3>
+
+    <div class="form-container">
+
+        <EditForm Model="@ErrorReportModel" OnValidSubmit="@HandleSubmit">
+            <Component />
+            <DataAnnotationsValidator />
+            <div class="form-body">
+
+                <div>
+                    <label>Navn:</label><br />
+                    <InputText @bind-Value="ErrorReportModel.Name" class="form-control" />
+                    <ValidationMessage For="@(() => ErrorReportModel.Name)" />
+                </div>
+
+                <div>
+                    <label>E-mail:</label><br />
+                    <InputText @bind-Value="ErrorReportModel.Email" class="form-control" />
+                    <ValidationMessage For="@(() => ErrorReportModel.Email)" />
+                </div>
+
+                <div>
+                    <label>Telefonnummer:</label><br />
+                    <InputText @bind-Value="ErrorReportModel.Phonenumber" class="form-control" />
+                    <ValidationMessage For="@(() => ErrorReportModel.Phonenumber)" />
+                </div>
+
+                <div>
+                    <label>Fejlbeskrivelse:</label><br />
+                    <InputTextArea @bind-Value="ErrorReportModel.ErrorDescription" class="form-control" />
+                    <ValidationMessage For="@(() => ErrorReportModel.ErrorDescription)" />
+                </div>
+
+                <br />
+
+                <button type="submit" class="btn btn-primary">Indsend</button>
+
+                @if (message != null)
+                {
+                    <p>@message</p>
+                }
+            </div>
+
+        </EditForm>
+    </div>
+
+</div>
+

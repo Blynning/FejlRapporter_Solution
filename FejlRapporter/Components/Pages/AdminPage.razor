@@ -1,0 +1,44 @@
+﻿@page "/admin"
+@using Models
+@rendermode InteractiveServer
+
+
+<div class="main-container">
+    @if (ErrorReports != null)
+    {
+        @foreach (ErrorReport er in ErrorReports)
+        {
+            <div class="report-container @(er.Status is ErrorStatus.Slettet ? "greyed-out" :"")">
+                <div class="top-container">
+                    <div class="contact-container">
+                        <p>@er.Name</p>
+                        <p>@er.Email</p>
+                        <p>mobil: @er.Phonenumber</p>
+                    </div>
+
+                    <div>
+                        <p>@er.Status</p>
+                    </div>
+                </div>
+
+                <div class="desc-container">
+                    <p>@er.ErrorDescription</p>
+                </div>
+
+                <div class="d-grid gap-2 d-md-block">
+                    <button type="button" class="btn @(er.Status is ErrorStatus.Fuldført ? "btn-success" : "btn-outline-success")" @onclick="() => UpdateStatus(er, 1)">Fuldført</button>
+                    <button type="button" class="btn @(er.Status is ErrorStatus.Uløselig ? "btn-secondary" : "btn-outline-secondary")" @onclick="() => UpdateStatus(er, 2)">Uløselig</button>
+                    <button type="button" class="btn @(er.Status is ErrorStatus.Slettet ? "btn-danger" : "btn-outline-danger")" @onclick="() => UpdateStatus(er, 3)">Slet</button>
+                </div>
+
+            </div>
+
+        }
+    }
+    else
+    {
+        <h3>Prøver at hente data...</h3>
+    }
+
+
+</div>
